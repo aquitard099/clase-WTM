@@ -22,9 +22,9 @@ varYVar = miVariable = sumaSencilla
 texto = "Final"
 
 # Imprimi algunos datos que tenia como variables.
-puts texto 
+puts booleanVar
 puts "******************"
-print booleanVar
+print texto
 puts "******************"
 puts miVariable
 
