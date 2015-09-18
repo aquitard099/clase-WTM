@@ -1,1 +1,2 @@
 Este repositorio tendra todo el contenido acerca de lo que voy a aprencer en Ruby.
+Es la primera clase y es para saber como subir a github
