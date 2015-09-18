@@ -25,11 +25,11 @@ if 7 == 2 + 5
 	puts "El resultado es 7"
 end
 
-=begin # Provocando un error.
+# Provocando un error.
 puts "Ejecutando linea numero 8."
 if "Andres" == pepito
 	puts "Andres es igual a Andres"
-=end
+end
 
 # Bloque de dos condiciones
 puts "***************************"
