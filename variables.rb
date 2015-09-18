@@ -27,4 +27,5 @@ puts "******************"
 print texto
 puts "******************"
 puts miVariable
+print "*****************"
 
