@@ -29,4 +29,5 @@ segundoArreglo.each do |alumno|
   puts alumno
 end
 
-# Si se coloca "puts alumno" se ejecuta un error porque no la variable (alumno) se pierde luego del end, no se define todo el tiempo
+# Si se coloca "puts alumno" se ejecuta un error porque no la variable (alumno) se pierde luego del end, no se define todo el tiempo.
+# Hay algunos errores que aparecen mucho despues como (end), hay que buscar desde el principio del script.
