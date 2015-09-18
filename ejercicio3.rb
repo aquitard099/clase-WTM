@@ -5,7 +5,7 @@ ciudad = "Bogota"
 
 # Bogota es igual a bogota
 # Deberia ejecutar el puts.
-if ciudad == "Bogota" 
+if ciudad == "Bogota" then # El then se puede colocar o quitar.
 	puts "La ciudad es Bogota"
 end
 
